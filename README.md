@@ -1,3 +1,6 @@
-# mezuniyet
+**⚒️BU PROJE HANGİ DİLDE ÇALIŞIR?**
+       Pyhton
 
-Bu proje iklim değişikliği ile alakalıdır bu proje gündemdeki iklim değişikleriyle ilgili olacaktır
+
+**👑BU PROJE NEDEN VAR?**
+       İnsanlar iklim değişikliğinden haberdar olsun diye
